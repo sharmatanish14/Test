@@ -1,0 +1,35 @@
+1. Difference between executor service and forkjoinpool
+2. Join method in Future
+3. CAP theorem
+4. SOLID
+6. spliterator
+7. CompletableFuture chaining
+8. Difference between List.of and Arrays.asList
+9. SAGA pattern (chreography and orchestrator pattern)
+10. @Transaction prapogation types (internally its uses proxy)
+11. Prototype bean inside singleton bean
+12. @Lookup annotation
+14. Circular references (@Lazy annotation)
+15. Difference between @Service and @Component annotation
+16. Trace ID and Span ID and correlation ID
+17. serialVersionID in serialisation
+18. Difference between serialisation and externalisation.
+19. In kafka how we can maintain order(by passing same key, then it will go to same partition)
+20. What is consumer groups in kafka
+
+1. Java 17 new features, Java 8 fatures
+2. Singleton class, Immutable class
+3. hashCode and equals method contract
+4. difference between hashtable and concurrentHashMap
+5. different ways to create object in java
+6. Future and CompletableFuture
+7. DI and IOC
+8. Different autowiring types
+9. Different scopes of beans in spring
+10. Different ways to create thread using Executor service
+11. ClassNotFoundException vs NoClassDefinitionFoundException
+12. Protype bean autowired inside singleton class
+13. Difference between Mock and Spy, difference between Mock and InjectMock
+14. CQRS design pattern
+16. intern() method, String constant pool
+17. Different class loaders in Java
